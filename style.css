@@ -30,7 +30,7 @@ nav {
   flex-wrap: wrap;
 }
 nav {
-  color: black;
+  color:white;
   text-decoration: none;
   transition: color 0.3s ease, transfrom 0.3s ease;
 }
@@ -41,7 +41,7 @@ nav a:hover {
 nav a {
   display: block;
   text-align: center;
-  color: #000;
+  color: white;
 }
 @media (max-width: 1439px) {
   nav {
@@ -116,4 +116,28 @@ nav a {
 }
 .k3{
     color: aliceblue;
+}
+.m1{
+  color: aliceblue;
+}
+.r4{
+  color: aliceblue;
+}
+.p1{
+  color: aliceblue;
+}
+.o1{
+  color: aliceblue;
+}
+.e1{
+  color: aliceblue;
+}
+.a1{
+  color: aliceblue;
+}
+.a2{
+  color: aliceblue;
+}
+.a3{
+  color: aliceblue;
 }
