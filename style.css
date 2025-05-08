@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(images/k.jpg);
+  background-image: url(images/bm.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -35,7 +35,7 @@ nav {
   transition: color 0.3s ease, transfrom 0.3s ease;
 }
 nav a:hover {
-  color: white;
+  color: blue;
   transform: scale(1.1);
 }
 nav a {
